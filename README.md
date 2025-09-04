@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, traveler of the repos</h1>
+<h1 align="center">👋 Hello there!</h1>
 <h3 align="center">✨ May the neural nets be with you ✨</h3>
 
 ---
