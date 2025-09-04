@@ -22,14 +22,6 @@ skills = [
 "DSA ♟️ (always leveling up)"
 ]
 
-## 📚 Fun Facts
-
-🌌 If I'm not coding, I'm probably in a galaxy far, far away.  
-♟️ I see chess openings like algorithms — one wrong move = chaos.  
-🔍 Favorite debugging strategy: stare at the code until it stares back.  
-🦖 Can explain backpropagation and why the T-Rex had tiny arms.  
-⏳ I measure time in epochs, not hours. 
-
 ---
 
 <p align="left"> 
@@ -74,6 +66,15 @@ skills = [
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
+---
+
+## 📚 Fun Facts
+🌌 If I'm not coding, I'm probably in a galaxy far, far away.  
+♟️ I see chess openings like algorithms — one wrong move = chaos.  
+🔍 Favorite debugging strategy: stare at the code until it stares back.  
+🦖 Can explain backpropagation and why the T-Rex had tiny arms.  
+⏳ I measure time in epochs, not hours. 
 
 ---
 
