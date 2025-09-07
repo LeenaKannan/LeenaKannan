@@ -14,6 +14,7 @@
 ---
 
 ## 🛠️ Tech Arsenal  
+'''python
 import torch.nn as nn
 
 class LeenzModel(nn.Module):
@@ -24,8 +25,9 @@ class LeenzModel(nn.Module):
             "CUDA ⚡ & Embedded Systems",
             "C++ / Python 🐍",
             "Operating Systems & System Design",
-            "DSA ♟️ (always leveling up)"
+            "DSA ♟️"
         ]
+'''
         
 ---
 
