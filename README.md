@@ -14,14 +14,19 @@
 ---
 
 ## 🛠️ Tech Arsenal  
-skills = [
-"AI / ML / DL / CV",
-"CUDA ⚡ & Embedded Systems",
-"C++ / Python 🐍",
-"Operating Systems & System Design",
-"DSA ♟️ (always leveling up)"
-]
+import torch.nn as nn
 
+class LeenzModel(nn.Module):
+    def __init__(self):
+        super(LeenzModel, self).__init__()
+        self.skills = [
+            "AI / ML / DL / CV",
+            "CUDA ⚡ & Embedded Systems",
+            "C++ / Python 🐍",
+            "Operating Systems & System Design",
+            "DSA ♟️ (always leveling up)"
+        ]
+        
 ---
 
 <p align="left"> 
