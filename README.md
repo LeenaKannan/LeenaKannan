@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Arsenal  
-'''python
+```python
 import torch.nn as nn
 
 class LeenzModel(nn.Module):
@@ -27,7 +27,7 @@ class LeenzModel(nn.Module):
             "Operating Systems & System Design",
             "DSA ♟️"
         ]
-'''
+```
         
 ---
 
