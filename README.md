@@ -43,7 +43,7 @@ class LeenzModel(nn.Module):
 - 🤝 I'm looking for help with **Optimizing DL models on hardware**
 - 💬 Ask me about **ML, Neural Nets, Chess Openings, or Star Wars lore**
 - 📫 How to reach me **leenakannan.23@gmail.com**
-- 📄 Know about my experiences [Resume](https://github.com/LeenaKannan/LeenaKannan/blob/main/resume/LeenaKannan_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/LeenaKannan/LeenaKannan/blob/main/resume/LeenaKannan_CV.pdf)
 
 ---
 
